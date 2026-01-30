@@ -12,15 +12,15 @@ TOPIC_NAME = "proper_events"
 GROUP_ID = "snowflake-loader"
 
 # ------------------------
-# Snowflake connection settings
+# Snowflake connection settings (INSERT SNOWFLAKE CREDENTIALS)
 # ------------------------
 SNOWFLAKE_CONFIG = {
-    "user": "PEACE",
-    "password": "Peacepeace123$",
-    "account": "ok76109.eu-west-3.aws",
-    "warehouse": "COMPUTE_WH",
-    "database": "KAFKA_DB",
-    "schema": "STREAMING"
+    "user": " ",
+    "password": " ",
+    "account": " ",
+    "warehouse": " ",
+    "database": " ",
+    "schema": " "
 }
 
 BATCH_SIZE = 10
